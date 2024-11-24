@@ -1,0 +1,26 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@font-face {
+  font-family: "GTAmerica";
+  src: url("/GTAmerica-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Freight";
+  src: url("/freighttext-bolditalic.ttf") format("ttf");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@layer utilities {
+  .border-dense-dotted {
+    border-style: dotted;
+    border-width: 1px;
+    border-color: theme('colors.primary.100');
+    flex: 1 1 0%;
+  }
+}
