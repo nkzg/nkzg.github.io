@@ -1,4 +1,5 @@
 <script>
+  import { base } from '$app/paths';
   import Header from "$lib/Header.svelte";
   import Link from "$lib/Link.svelte";
 </script>
@@ -14,7 +15,7 @@
   </main>
 
   <footer class="font-americas mt-16 lg:mt-36">
-    <a href="/" target="_blank" rel="noopener noreferrer" class="hover:underline">
+    <a href={`${base}/`} target="_blank" rel="noopener noreferrer" class="hover:underline">
       github
     </a>
     <br>
