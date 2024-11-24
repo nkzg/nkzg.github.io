@@ -17,7 +17,7 @@ const config = {
       fallback: null,
     }),
     paths: {
-      base: '/nkzg.github.io', // Set the base path to the repository name
+      base: '', // Set the base path to the repository name
     },
 	}
 };
