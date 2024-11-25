@@ -7,10 +7,12 @@
   <main>
     <p class="mt-12 font-americas text-xl w-full sm:w-3/4 md:w-[420px]">
       <span class="font-freight text-2xl font-bold italic">
-        i think picking favorites is a very important and necessary thing to do
-        your favorites always have value
-        here's a list of some of my favorite things with varying specificity
+        work in progress...
       </span>
+
+      i think picking favorites is a very important and necessary thing to do
+      your favorites always have value
+      here's a list of some of my favorite things with varying specificity
 
       favorite media:
         favorite book: The Brothers Karamazov by Fyodor Dostoevsky
