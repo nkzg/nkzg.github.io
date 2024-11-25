@@ -10,7 +10,6 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        tiempos: ["Tiempos"],
         america: ["GTAmerica"],
         freight: ["Freight"],
       },

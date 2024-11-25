@@ -23,6 +23,7 @@ const config = {
       fallback: 'null',
     }),
     paths: {
+			assets: '/',
       base: '', // Set the base path to the repository name
     },
 	}
