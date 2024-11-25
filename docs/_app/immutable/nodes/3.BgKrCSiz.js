@@ -1,6 +1,8 @@
-import{t as o,a as t}from"../chunks/disclose-version.C7yHqsKP.js";import"../chunks/legacy.CW6FSisC.js";import{a as i}from"../chunks/attributes.CaPm3nup.js";import{b as r}from"../chunks/paths.Bj18PLct.js";/* empty css                                                   */var n=o(`<article class="mx-12 text-primary-100"><main><p class="mt-12 font-americas text-xl w-full sm:w-3/4 md:w-[420px]"><span class="font-freight text-2xl font-bold italic">i think picking favorites is a very important and necessary thing to do
-        your favorites always have value
-        here's a list of some of my favorite things with varying specificity</span> favorite media:
+import{t as o,a as t}from"../chunks/disclose-version.C7yHqsKP.js";import"../chunks/legacy.CW6FSisC.js";import{a as r}from"../chunks/attributes.CaPm3nup.js";import{b as i}from"../chunks/paths.SfOSLd5v.js";/* empty css                                                   */var n=o(`<article class="mx-12 text-primary-100"><main><p class="mt-12 font-americas text-xl w-full sm:w-3/4 md:w-[420px]"><span class="font-freight text-2xl font-bold italic">work in progress...</span> i think picking favorites is a very important and necessary thing to do
+      your favorites always have value
+      here's a list of some of my favorite things with varying specificity
+
+      favorite media:
         favorite book: The Brothers Karamazov by Fyodor Dostoevsky
         favorite piece of online writing: 
         favorite shonen manga: Mairimashita! Iruma-kun by Osamu Nishi, 
@@ -42,4 +44,4 @@ import{t as o,a as t}from"../chunks/disclose-version.C7yHqsKP.js";import"../chun
         favorite strategy game: Connect 4
         favorite video game: Teamfight Tactics
         favorite open-source software: Svelte
-        favorite mobile app: Beli</p></main> <footer class="font-americas mt-16 lg:mt-36"><a${i("href",`${r}/`)} target="_blank" rel="noopener noreferrer" class="hover:underline">github</a> <br> — <br> <p>zhongxnicholas [a] gmail [dot] com</p></footer></article>`);function c(e){var a=n();t(e,a)}export{c as component};
+        favorite mobile app: Beli</p></main> <footer class="font-americas mt-16 lg:mt-36"><a${r("href",`${i}/`)} target="_blank" rel="noopener noreferrer" class="hover:underline">github</a> <br> — <br> <p>zhongxnicholas [a] gmail [dot] com</p></footer></article>`);function c(e){var a=n();t(e,a)}export{c as component};
