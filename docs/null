@@ -7,29 +7,29 @@
 		<link rel="icon" href="/favico.ico" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		
-		<link rel="modulepreload" href="/_app/immutable/entry/start.B_4iRMgv.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/entry.DgjvS8Xe.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/runtime.OP-IMs_s.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/paths.RbqjJXHh.js">
-		<link rel="modulepreload" href="/_app/immutable/entry/app.Cxbav73F.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/store.Brkrd-q0.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/svelte-head.p9GeSreC.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/disclose-version.iNFY2vyW.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/props.bPbfJNm6.js">
+		<link rel="modulepreload" href="/_app/immutable/entry/start.CAXB5xxq.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/entry.CzNY31o2.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/runtime.Dxok9MYU.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/paths.Bj18PLct.js">
+		<link rel="modulepreload" href="/_app/immutable/entry/app.vv461iKJ.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/store.cUPvqk_c.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/svelte-head.BZrGu8t-.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/disclose-version.C7yHqsKP.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/props.ai1F0W--.js">
 	</head>
-	<body class="bg-primary-200" data-sveltekit-preload-data="hover">
+	<body class="bg-primary-200 min-h-screen" data-sveltekit-preload-data="hover">
 		<div style="display: contents">
 			<script>
 				{
-					__sveltekit_vzzyz7 = {
+					__sveltekit_15bpixd = {
 						base: ""
 					};
 
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/_app/immutable/entry/start.B_4iRMgv.js"),
-						import("/_app/immutable/entry/app.Cxbav73F.js")
+						import("/_app/immutable/entry/start.CAXB5xxq.js"),
+						import("/_app/immutable/entry/app.vv461iKJ.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});

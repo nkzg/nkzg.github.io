@@ -1,13 +1,11 @@
 <script>
   import { base } from "$app/paths";
-  import Header from "$lib/Header.svelte";
   import Link from "$lib/Link.svelte";
 </script>
 
-<article class="mt-8 lg:mt-36 mx-12 text-primary-100">
-  <Header/>
+<article class="mx-12 text-primary-100">
   <main>
-    <p class="mt-12 font-americas text-xl w-full sm:w-3/4 md:w-[420px]">
+    <p class="mt-[calc(3vh+3vw)] font-americas text-xl w-full sm:w-3/4 md:w-[420px]">
         <a 
           href="mailto:zhongxnicholas@gmail.com"
           target="_blank"
@@ -17,12 +15,12 @@
             nick zhong 
           </span>
         </a>
-        is a software engineer and aspiring designer
-        who currently <Link text="freelances"/> and works with <Link text="non-profits"/>.
+        is a software engineer searching for beautiful stories from around the world and of his own.
+        he currently <Link text="freelances"/> and collaborates with <Link text="non-profits"/>.
         otherwise he might be
         learning olympic <Link text="weightlifting"/>,
         exploring <Link text="nature"/>, 
-        and wandering around <Link text="museums"/> listening to <Link text="music"/> 
+        or wandering around <Link text="museums"/> listening to <Link text="music"/> 
       <br>
       <br>
         currently bouncing around <Link text="pittsburgh"/>, <Link text="singapore"/>, and occasionally <Link text="san francisco"/>.
@@ -32,7 +30,7 @@
     </p>
   </main>
 
-  <footer class="font-americas mt-16 lg:mt-36">
+  <footer class="font-americas mt-[calc(3vh+3vw)] mb-[3vh] ">
     <a href="https://github.com/nkzg" target="_blank" rel="noopener noreferrer" class="hover:underline">
       github
     </a>
