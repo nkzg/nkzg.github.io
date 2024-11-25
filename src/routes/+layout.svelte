@@ -5,7 +5,6 @@
 	let { data, children }: { data: PageData, children: Snippet} = $props();
 	const title = data?.seo?.title || 'Nick Zhong';
 	const description = data?.seo?.description || 'A personal website for Nick Zhong';
-	import '../app.css';
 </script>
 
 <svelte:head>

@@ -2,7 +2,6 @@
   import { base } from '$app/paths';
 </script>
 
-
 <header class="text-xl w-full sm:w-3/4 md:w-[420px]">
   <nav class="">
     <ul class="flex flex-wrap gap-y-1 space-x-0.5">
