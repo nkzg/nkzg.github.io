@@ -40,7 +40,7 @@
     —
     <br>
     <p>
-      zhongxnicholas [a] gmail [dot] com
+      zhongxnicholas [at] gmail [dot] com
     </p>
   </footer>
 </article>
