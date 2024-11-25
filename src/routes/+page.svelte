@@ -33,7 +33,7 @@
   </main>
 
   <footer class="font-americas mt-16 lg:mt-36">
-    <a href={`${base}/`} target="_blank" rel="noopener noreferrer" class="hover:underline">
+    <a href="https://github.com/nkzg" target="_blank" rel="noopener noreferrer" class="hover:underline">
       github
     </a>
     <br>
