@@ -19,7 +19,7 @@
         </a>
         is a software engineer and aspiring designer
         who currently <Link text="freelances"/> and works with <Link text="non-profits"/>.
-        Current hobbies include
+        otherwise he might be
         learning olympic <Link text="weightlifting"/>,
         exploring <Link text="nature"/>, 
         and wandering around <Link text="museums"/> listening to <Link text="music"/> 
