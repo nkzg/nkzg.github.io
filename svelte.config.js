@@ -24,7 +24,6 @@ const config = {
     }),
     paths: {
       base: '', // Set the base path to the repository name
-			relative: false,
     },
 	}
 };
