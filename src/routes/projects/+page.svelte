@@ -11,16 +11,4 @@
       </span>
     </p>
   </main>
-
-  <footer class="font-americas mt-16 lg:mt-36">
-    <a href={`${base}/`}  target="_blank" rel="noopener noreferrer" class="hover:underline">
-      github
-    </a>
-    <br>
-    —
-    <br>
-    <p>
-      zhongxnicholas [a] gmail [dot] com
-    </p>
-  </footer>
 </article>

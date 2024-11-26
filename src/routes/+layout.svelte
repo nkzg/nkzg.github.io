@@ -32,5 +32,20 @@
   </nav>
 </header>
 
-
 {@render children()}
+
+<footer class="font-americas text-primary-100 mx-12 mt-[calc(3vh+3vw)] pb-8">
+  <div class="w-full sm:w-3/4 md:w-[420px]">
+    <a href={`${base}/`}  target="_blank" rel="noopener noreferrer" class="hover:underline">
+      github
+    </a>
+    <br>
+    —
+    <br>
+    <p>
+      zhongxnicholas [at] gmail [dot] com
+    </p>
+
+  </div>
+
+</footer>

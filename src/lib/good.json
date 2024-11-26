@@ -1,0 +1,92 @@
+{
+  "2024 songs": [
+  {
+    "value": "3:am (feat. erykah badu) - rapsody",
+    "link": null
+  },
+  {
+    "value": "baby i'm the wolf - ha vay",
+    "link": null
+  },
+  {
+    "value": "birds of a feather - billie eilish",
+    "link": null
+  },
+  {
+    "value": "birth4000 - floating points",
+    "link": null
+  },
+  {
+    "value": "breathe - yeat",
+    "link": null
+  },
+  {
+    "value": "echo - the marias",
+    "link": null
+  },
+  {
+    "value": "eusexua - fka twigs",
+    "link": null
+  },
+  {
+    "value": "luther (with sza) - kendrick lamar",
+    "link": null
+  },
+  {
+    "value": "may ninth - khruangbin",
+    "link": null
+  },
+  {
+    "value": "nothing to declare - mgmt",
+    "link": null
+  },
+  {
+    "value": "places to be - fred again... w/anderson.paak+chika",
+    "link": null
+  },
+  {
+    "value": "rah tah tah - tyler, the creator",
+    "link": null
+  },
+  {
+    "value": "soup - remi wolf",
+    "link": null
+  },
+  {
+    "value": "strawberry - roy blair",
+    "link": null
+  },
+  {
+    "value": "the magician - geordie greep",
+    "link": null
+  },
+  {
+    "value": "the thief - future islands",
+    "link": null
+  },
+  {
+    "value": "woo - james blake w/lil yachty",
+    "link": null
+  }
+  ],
+  "books": [
+    {
+      "value": "the song of solomon - toni morrison",
+      "link": null
+    }
+  ],
+  "educational resources": [
+    {
+      "value": "practical deep learning for coders - fast.ai",
+      "link": "https://course.fast.ai/"
+    },
+    {
+      "value": "kubernetes the hard way",
+      "link": "https://github.com/kelseyhightower/kubernetes-the-hard-way"
+    },
+    {
+      "value": "introduction to investing and finance - martin shkreli",
+      "link": "https://www.youtube.com/watch?v=VI_riscmviI"
+    }
+  ]
+}

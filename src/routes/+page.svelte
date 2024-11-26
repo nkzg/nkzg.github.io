@@ -29,16 +29,4 @@
       <br>
     </p>
   </main>
-
-  <footer class="font-americas mt-[calc(3vh+3vw)] mb-[3vh] ">
-    <a href="https://github.com/nkzg" target="_blank" rel="noopener noreferrer" class="hover:underline">
-      github
-    </a>
-    <br>
-    —
-    <br>
-    <p>
-      zhongxnicholas [at] gmail [dot] com
-    </p>
-  </footer>
 </article>
