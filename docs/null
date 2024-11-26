@@ -7,11 +7,11 @@
 		<link rel="icon" href="/favico.ico" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		
-		<link rel="modulepreload" href="/_app/immutable/entry/start.B9vQuzAA.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/entry.CWahAUSm.js">
+		<link rel="modulepreload" href="/_app/immutable/entry/start.BdQ5ECjG.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/entry.Dxlsy54q.js">
 		<link rel="modulepreload" href="/_app/immutable/chunks/runtime.B_P5Z3Fe.js">
-		<link rel="modulepreload" href="/_app/immutable/chunks/paths.CoMrHtgK.js">
-		<link rel="modulepreload" href="/_app/immutable/entry/app.C5UYm6Cp.js">
+		<link rel="modulepreload" href="/_app/immutable/chunks/paths.p6vjN99v.js">
+		<link rel="modulepreload" href="/_app/immutable/entry/app.nW-rjnIz.js">
 		<link rel="modulepreload" href="/_app/immutable/chunks/store.CUC9QSAM.js">
 		<link rel="modulepreload" href="/_app/immutable/chunks/svelte-head.B37Oc5oM.js">
 		<link rel="modulepreload" href="/_app/immutable/chunks/disclose-version.BPwxym_O.js">
@@ -21,15 +21,15 @@
 		<div style="display: contents">
 			<script>
 				{
-					__sveltekit_1wlufb0 = {
+					__sveltekit_qdieqj = {
 						base: ""
 					};
 
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/_app/immutable/entry/start.B9vQuzAA.js"),
-						import("/_app/immutable/entry/app.C5UYm6Cp.js")
+						import("/_app/immutable/entry/start.BdQ5ECjG.js"),
+						import("/_app/immutable/entry/app.nW-rjnIz.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});

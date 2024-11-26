@@ -184,6 +184,14 @@
       "link": null
     },
     {
+      "category": "orchestral suite",
+      "value": {
+        "title": "the planets",
+        "artist": "gustav holt"
+      },
+      "link": null
+    },
+    {
       "category": "unreleased track",
       "value": {
         "title": "pyrite",
@@ -208,9 +216,9 @@
       "link": "https://www.youtube.com/watch?v=YlpN3S16ZAs"
     },
     {
-      "category": "piano piece i can perform",
+      "category": "piano piece",
       "value": {
-        "title": "nocturne op.2",
+        "title": "nocturne op.9 no.2",
         "artist": "chopin"
       },
       "link": null

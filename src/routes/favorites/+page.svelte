@@ -93,7 +93,7 @@
   <div class="text-lg mt-4">
     <div>{@html renderSections(favs)}</div>
     <details>
-      <summary class="mb-2">misc. aka still good™</summary>
+      <summary class="mb-2">not my fav but still good™</summary>
       <div class="px-4">
         {@html renderMisc(good)}
       </div>
